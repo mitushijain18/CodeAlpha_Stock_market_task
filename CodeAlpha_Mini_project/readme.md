@@ -16,13 +16,7 @@ A well-designed trading strategy helps traders reduce emotional decision-making 
 
 ## Strategy Selected
 
-**Trading Strategy Name:** (Enter Strategy Name)
-
-Examples:
-- Moving Average Crossover Strategy
-- RSI-Based Trading Strategy
-- Breakout Trading Strategy
-- Trend Following Strategy
+RSI-Based Trading Strategy
 
 ## Objectives
 
